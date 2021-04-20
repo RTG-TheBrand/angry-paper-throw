@@ -10,7 +10,7 @@ var earth,paper;
 
 function preload(){
 
-dimage=loadImage("sprites/dustbin.png");
+dimage=loadImage(/*"sprites/dustbin.png"*/"dustbin.png");
 
 }
 

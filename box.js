@@ -22,7 +22,7 @@ class box {
       rectMode(CENTER);
       //imageMode(CENTER);
       stroke("white");
-      //fill("white");
+      fill("white");
       rect(this.x,this.y, this.width, this.height);
       
     }
